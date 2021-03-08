@@ -19,7 +19,6 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/IMG_4636.jpg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
