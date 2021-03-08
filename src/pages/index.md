@@ -22,6 +22,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+  - type: contact_section
   - type: features_section
     title: Features
     features:
